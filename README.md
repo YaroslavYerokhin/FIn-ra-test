@@ -1,4 +1,4 @@
-**Установка docker: **
+**Установка docker:**
 
  $ sudo apt-get update
  
@@ -16,7 +16,7 @@
  
  $ ./cm selenoid start --vnc
  
-**Установка selenoid UI **
+**Установка selenoid UI**
 
  $ ./cm selenoid-ui start
  
