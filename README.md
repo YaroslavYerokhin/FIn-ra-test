@@ -1,7 +1,11 @@
 Установка docker: 
+
  $ sudo apt-get update
+ 
  $ sudo apt-get install
+ 
  $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg
+ 
  $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 Установка selenoid
  $ sudo wget https://github.com/aerokube/cm/releases/download/1.8.1/cm_linux_amd64
